@@ -1,5 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
-
+echo '.idea'
 # Virtual environment
 venv
 ### Python template
